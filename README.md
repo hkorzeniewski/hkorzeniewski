@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @hkorzeniewski
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning Python, Django, Docker, Fastapi
-- 💞️ I’m looking to collaborate on beginner backend projects which can expand my programming skills
-- 📫 How to reach me ...
+- 👀 I’m interested in backend development with fastapi, django, docker, SQL databases.
+- 🌱 I’m currently learning AI and LLM stuff to expand my skills.
+- 💞️ I’m looking to collaborate on backend projects which are based on Python and RESTapi.
+- 📫 How to reach me [...](https://www.linkedin.com/in/hubert-korzeniewski-693154208/)
 
 <!---
 hkorzeniewski/hkorzeniewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
