@@ -1,10 +1,28 @@
-- 👋 Hi, I’m @hkorzeniewski
-- 👀 I’m interested in backend development with fastapi, django, docker, PostgreSQL databases, OpenAI.
-- 🌱 I’m currently learning AI and LLM stuff to expand my skills.
-- 💞️ I’m looking to collaborate on backend projects which are based on Python and RESTapi.
-- 📫 How to reach me [...](https://www.linkedin.com/in/hubert-korzeniewski-693154208/)
+# Hi there! 👋
 
-<!---
-hkorzeniewski/hkorzeniewski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Hubert Korzeniewski, a backend developer passionate about utilizing technologies such as FastAPI, Django, Docker, PostgreSQL databases, and diving into the fascinating world of OpenAI.
+
+## 🚀 Projects
+
+I've had the privilege of maintaining backend systems for notable projects, including:
+- **[growhub.com.pl](https://growhub.com.pl/):** Developing the backend to build this platform.
+- **[aisays.pl](https://aisays.pl/):** Implementing backend solutions in FastAPI to enhance the functionality and performance of the AISays website. AISays includes OpenAI API.
+
+## 🌱 Current Learning
+
+I'm currently expanding my skill set by delving into the realms of AI and LLM (Large Language Models) to stay on top of the latest developments in the field.
+
+## 👀 Interests
+
+My interests is backend development, particularly projects involving Python and RESTapi.
+
+## 💞️ Collaboration
+
+I'm open to collaborating on exciting backend projects that align with my expertise. If you have a project or idea you'd like to discuss, feel free to reach out!
+
+## 📫 Get in Touch
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hubert-korzeniewski-693154208/) to start a conversation and explore potential collaborations.
+
+Looking forward to connecting and building great things together! 🚀
+
