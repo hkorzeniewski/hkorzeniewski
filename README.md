@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Hubert Korzeniewski, a backend developer passionate about utilizing technologies such as FastAPI, Django, Docker, PostgreSQL databases, and diving into the fascinating world of OpenAI.
+I'm Hubert Korzeniewski, a backend developer passionate about utilizing technologies such as FastAPI, Django, Docker, PostgreSQL databases, and diving into the fascinating world of AI and Blockchain.
 
 ## 🚀 Projects
 
